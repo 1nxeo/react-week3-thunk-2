@@ -1,0 +1,8 @@
+1. thunk 함수를 구현
+2. 리듀서 로직 구현 : reducers 가 아닌 extraReducers에
+    - 서버통신 : 100% 성공 보장 X
+    - 지금까지의 redux state(todos, counter)
+    - 앞으로의 state(isLoading, isError, data)
+3. 기능 확인(network) + devTools
+
+4. Store의 값을 조회 + 화면에 렌더링
